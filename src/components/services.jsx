@@ -124,7 +124,7 @@ const Services = () => {
               key={id}
               className={classes.serviceCard}
               sx={{
-                backgroundImage: `url(${src})`,
+                backgroundImage: `url(../assets/images/services/${src})`,
                 cursor: cursorPosition ? "none" : "auto",
               }}
               onMouseLeave={handleMouseLeave}
