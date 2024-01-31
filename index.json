@@ -1,0 +1,113 @@
+{
+  "ContactDetails": [
+    {
+      "id": 1,
+      "name": "Location",
+      "info": "27 Division St, New York, NY 10002",
+      "link": "https://maps.app.goo.gl/7GQoKXcsEG73sygG9"
+    },
+    {
+      "id": 2,
+      "name": "Phone",
+      "info": "+9233 7707 8631",
+      "link": "tel:+923377078631"
+    },
+    {
+      "id": 3,
+      "name": "Email",
+      "info": "suyedmuhummadmaaz@gmail.com",
+      "link": "mailto:suyedmuhummadmaaz@gmail.com"
+    }
+  ],
+  "OfferDetails": [
+    {
+      "id": 1,
+      "title": "Provided SEO & SMM Services",
+      "description": "Having your business on the internet is no longer optional if you want to attract customers. So that means having SEO for your website isn’t optional either.",
+      "src": "/src/assets/images/offer/service1.jpg",
+      "alt": "1.png"
+    },
+    {
+      "id": 2,
+      "title": "Mobile App & Web Developmnet",
+      "description": "Having your business on the internet is no longer optional if you want to attract customers. So that means having SEO for your website isn’t optional either.",
+      "src": "/src/assets/images/offer/service2.jpg",
+      "alt": "2.png"
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Design From Professional",
+      "description": "Having your business on the internet is no longer optional if you want to attract customers. So that means having SEO for your website isn’t optional either.",
+      "src": "/src/assets/images/offer/service3.jpg",
+      "alt": "3.png"
+    }
+  ],
+  "ServicesDetails": [
+    {
+      "id": 1,
+      "title": "SEO Consulting",
+      "description": "Having your business on the internet is no longer optional if you want to attract customers. So that means having SEO for your website isn’t optional either.",
+      "src": "/src/assets/images/offer/service1.jpg",
+      "alt": "1.png"
+    },
+    {
+      "id": 2,
+      "title": "Onsite SEO",
+      "description": "Having your business on the internet is no longer optional if you want to attract customers. So that means having SEO for your website isn’t optional either.",
+      "src": "/src/assets/images/offer/service2.jpg",
+      "alt": "1.png"
+    },
+    {
+      "id": 3,
+      "title": "PPC Management",
+      "description": "Having your business on the internet is no longer optional if you want to attract customers. So that means having SEO for your website isn’t optional either.",
+      "src": "/src/assets/images/offer/service3.jpg",
+      "alt": "1.png"
+    },
+    {
+      "id": 4,
+      "title": "Keyword Analysis",
+      "description": "Having your business on the internet is no longer optional if you want to attract customers. So that means having SEO for your website isn’t optional either.",
+      "src": "/src/assets/images/services/service-4.jpg",
+      "alt": "1.png"
+    }
+  ],
+  "MethodologyDetails": [
+    {
+      "id": 1,
+      "title": "Keyword Analysis",
+      "description": "Our expertise, as well as our passion for web design, sets us apart from other agencies."
+    },
+    {
+      "id": 2,
+      "title": "SEO Optimisation",
+      "description": "Our expertise, as well as our passion for web design, sets us apart from other agencies."
+    },
+    {
+      "id": 3,
+      "title": "OnSite SEO Content",
+      "description": "Our expertise, as well as our passion for web design, sets us apart from other agencies."
+    },
+    {
+      "id": 4,
+      "title": "Keyword Assigment",
+      "description": "Our expertise, as well as our passion for web design, sets us apart from other agencies."
+    }
+  ],
+  "TestimonialsDetails": [
+    {
+      "id": 1,
+      "src": "/src/assets/images/testimonials/client-1.png",
+      "title": "Megan Olson",
+      "subTitle": "CLIENT OF AGENCY.",
+      "description": "Our office is something we are pleased with. We consider it the little magnet; it is wanting to come here and afterward difficult to leave it. Our office is additionally a big name."
+    },
+    {
+      "id": 2,
+      "src": "/src/assets/images/testimonials/client-2.png",
+      "title": "Monica Regan",
+      "subTitle": "CLIENT OF AGENCY.",
+      "description": "Our office is something we are pleased with. We consider it the little magnet; it is wanting to come here and afterward difficult to leave it. Our office is additionally a big name."
+    }
+  ]
+}
