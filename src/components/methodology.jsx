@@ -6,7 +6,7 @@ import { Container } from "../atom/container";
 import { Grid } from "../atom/grid";
 import { makeStyles } from "@mui/styles";
 import banner from "../assets/images/methodology/banner.jpg";
-import { MethodologyDetails } from "./index.json";
+import { MethodologyDetails } from "../index.json";
 import PlayCircleIcon from "@mui/icons-material/PlayCircle";
 import { IconButton } from "@mui/material";
 
