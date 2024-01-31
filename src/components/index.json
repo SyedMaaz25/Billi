@@ -97,7 +97,7 @@
   "TestimonialsDetails": [
     {
       "id": 1,
-      "src": "/src/assets/images/testimonials/m.png",
+      "src": "../assets/images/testimonials/m.png",
       "title": "Megan Olson",
       "subTitle": "CLIENT OF AGENCY.",
       "description": "Our office is something we are pleased with. We consider it the little magnet; it is wanting to come here and afterward difficult to leave it. Our office is additionally a big name."
