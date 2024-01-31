@@ -47,28 +47,28 @@
       "id": 1,
       "title": "SEO Consulting",
       "description": "Having your business on the internet is no longer optional if you want to attract customers. So that means having SEO for your website isn’t optional either.",
-      "src": "service1.jpg",
+      "src": "/src/assets/images/offer/service1.jpg",
       "alt": "1.png"
     },
     {
       "id": 2,
       "title": "Onsite SEO",
       "description": "Having your business on the internet is no longer optional if you want to attract customers. So that means having SEO for your website isn’t optional either.",
-      "src": "service2.jpg",
+      "src": "/src/assets/images/offer/service2.jpg",
       "alt": "1.png"
     },
     {
       "id": 3,
       "title": "PPC Management",
       "description": "Having your business on the internet is no longer optional if you want to attract customers. So that means having SEO for your website isn’t optional either.",
-      "src": "service3.jpg",
+      "src": "/src/assets/images/offer/service3.jpg",
       "alt": "1.png"
     },
     {
       "id": 4,
       "title": "Keyword Analysis",
       "description": "Having your business on the internet is no longer optional if you want to attract customers. So that means having SEO for your website isn’t optional either.",
-      "src": "service-4.jpg",
+      "src": "/src/assets/images/services/service-4.jpg",
       "alt": "1.png"
     }
   ],

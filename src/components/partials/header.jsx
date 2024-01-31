@@ -14,7 +14,7 @@ import CloseIcon from "@mui/icons-material/Close";
 import InstagramIcon from "@mui/icons-material/Instagram";
 import XIcon from "@mui/icons-material/X";
 import useScrollTrigger from "@mui/material/useScrollTrigger";
-import { ContactDetails } from "../../.././index.json";
+import { ContactDetails } from "../index.json";
 import { Menu } from "../../atom/menu";
 import { MenuItem } from "../../atom/menu";
 import { NavLink } from "react-router-dom";

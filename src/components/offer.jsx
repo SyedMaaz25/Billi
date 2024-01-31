@@ -6,7 +6,7 @@ import { makeStyles } from "@mui/styles";
 import { Container } from "../atom/container";
 import { Divider } from "@mui/material";
 import { Grid } from "../atom/grid";
-import { OfferDetails } from "../../index.json";
+import { OfferDetails } from "./index.json";
 
 const useStyles = makeStyles((theme) => ({
   root: {

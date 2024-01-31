@@ -7,7 +7,7 @@ import { Grid } from "../atom/grid";
 import arrow from "../assets/images/testimonials/arrow.png";
 import person from "../assets/images/testimonials/person.png";
 import "swiper/swiper-bundle.css";
-import { TestimonialsDetails } from "../../index.json";
+import { TestimonialsDetails } from "./index.json";
 import { Divider, IconButton } from "@mui/material";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation } from "swiper/modules";
