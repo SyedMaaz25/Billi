@@ -47,7 +47,7 @@
       "id": 1,
       "title": "SEO Consulting",
       "description": "Having your business on the internet is no longer optional if you want to attract customers. So that means having SEO for your website isn’t optional either.",
-      "src": "./src/assets/images/offer/service1.jpg",
+      "src": "/src/assets/images/testimonials/client-1.png",
       "alt": "1.png"
     },
     {
