@@ -4,7 +4,7 @@ import { Typography } from "../atom/typography";
 import { Container } from "../atom/container";
 import { makeStyles } from "@mui/styles";
 import { Grid } from "../atom/grid";
-import arrow from "../assets/images/testimonials/arrow.png";
+import arrow from "../assets/images/testimonials/arrow-1.png";
 import person from "../assets/images/testimonials/person.png";
 import "swiper/swiper-bundle.css";
 import { TestimonialsDetails } from "./index.json";
