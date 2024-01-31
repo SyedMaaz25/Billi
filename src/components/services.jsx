@@ -4,7 +4,6 @@ import { Typography } from "../atom/typography";
 import { makeStyles } from "@mui/styles";
 import { Card, CardContent } from "@mui/material";
 import { ServicesDetails } from "../../index.json";
-import image1 from "../assets/images/services/service-4.jpg"
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -125,7 +124,7 @@ const Services = () => {
               key={id}
               className={classes.serviceCard}
               sx={{
-                backgroundImage: `url(${image1})`,
+                backgroundImage: `url(${src})`,
                 cursor: cursorPosition ? "none" : "auto",
               }}
               onMouseLeave={handleMouseLeave}
